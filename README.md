@@ -15,10 +15,10 @@ This repository provides a step-by-step guide for preparing and running a **mole
 
 ## ⚙️ Installation
 
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install foobar.
+Use the command to install GROMACS.
 
 ```bash
-pip install gromacs
+sudo apt install gromacs
 ```
 
 ## Protein Simulation 
